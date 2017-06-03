@@ -1,10 +1,16 @@
 Update 1.2 Change Log
 
-1.2.1
+1.2.1 (Bye Bye Advocates)
 ~Added three new texts channels (#adminchat, #reporting, #updates)
 ~Added a new voice channel (Admin Voice Chat)
 ~Removed @Advocates role
 
-1.2.2 
+1.2.2 (Emoji's)
 ~Added new emoji's
 ~Updated old webhook
+
+1.2.3 (Technical Stuffs)
+~Deleted all webhooks
+~Attempted adding widget's
+~Updated technical stuff
+~Fixed typo's
